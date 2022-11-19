@@ -4,20 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e35f0bd-2a07-4612-986c-3cea6a6ceda6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/Main.java" afterDir="false" />
+    <list default="true" id="5e35f0bd-2a07-4612-986c-3cea6a6ceda6" name="Changes" comment="Initial">
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/dao/DAO.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/dao/DAOFactory.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/dao/DAOImplementation.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/entity/Appliance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/entity/criteria/Criteria.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/entity/criteria/SearchCriteria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wt_lab2.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668845481589</updated>
-      <workItem from="1668845483178" duration="672000" />
+      <workItem from="1668845483178" duration="1030000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1668846484915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668846484915</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,5 +86,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial" />
   </component>
 </project>
