@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e35f0bd-2a07-4612-986c-3cea6a6ceda6" name="Changes" comment="Adding new classes">
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/resources/appliances.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/resources/appliances_db.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/service/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/service/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/service/ServiceFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/service/Validator.java" afterDir="false" />
+    <list default="true" id="5e35f0bd-2a07-4612-986c-3cea6a6ceda6" name="Changes" comment="Implementing service">
+      <change afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/PrintApplianceInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/wt/lab2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668845481589</updated>
-      <workItem from="1668845483178" duration="4068000" />
+      <workItem from="1668845483178" duration="4800000" />
     </task>
     <task id="LOCAL-00001" summary="Initial">
       <created>1668846484915</created>
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668856179670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Implementing service">
+      <created>1668869559187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668869559187</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +109,7 @@
     <MESSAGE value="Initial" />
     <MESSAGE value="Implementing Dao Layer" />
     <MESSAGE value="Adding new classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding new classes" />
+    <MESSAGE value="Implementing service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementing service" />
   </component>
 </project>
